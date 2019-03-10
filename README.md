@@ -1,2 +1,3 @@
 # mpgon.dev
-mpgon.dev website
+
+mpgon.dev blog
